@@ -1,5 +1,9 @@
 # Thera-Printing
 
+*to be continued you find instruccions in english with in spanish.
+
+*A continuacion encontrara instrucciones tanton en ingles como en español
+
 -------------------------------INGLES--------------------------
 
 ****For security reasons with which the api works, the software can only be executed from the localhost and in the Microsoft Edge browser. The security of the api prevents opening it in the other browsers that you try
