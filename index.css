@@ -181,19 +181,33 @@ h6{
     margin-left: calc(50% - 45vw);
 }
 
-@media(max-width: 320px){
+@media(max-width: 319px){
     body,html{
         display: none;
     }
 }
 @media(min-width: 320px){
-#logo-container{
-    width: 300px;
-    justify-content: center;
-    text-align: center;
-    margin-left: 100px;
-}
-.inicio-container{
+
+
+    #logo-container{
+        width: 300px;
+        justify-content: center;
+        text-align: center;
+        margin-left: 25% 
+    }  
+
+    body{
+        background-image: url(./assets/Scan.jpg);
+        background-repeat: no repeat;
+        background-size: 100vw 100vh;
+    }
+
+    .nav{
+        background-color: transparent;
+        max-width: 450px;
+    }
+
+    .inicio-container{
     display: flex;
     flex-direction: column;
     background-color: #111;
@@ -305,6 +319,46 @@ margin-left: calc(50% - 150px);
         width: 300px;
         justify-content: center;
         text-align: center;
-        margin-left: calc(50% - 150px);
+        margin-left:30%
+    }  
+}
+
+@media(min-width: 640px){
+    #logo-container{
+        width: 300px;
+        justify-content: center;
+        text-align: center;
+        margin-left:40%
+    }  
+}
+
+
+@media(min-width: 780px){
+    #logo-container{
+        width: 300px;
+        justify-content: center;
+        text-align: center;
+        margin-left:50%
+    }  
+}
+
+
+@media(min-width: 920px){
+    #logo-container{
+        width: 300px;
+        justify-content: center;
+        text-align: center;
+        margin-left:65%
+    }  
+}
+
+
+@media(min-width: 1024px){
+    #logo-container{
+        width: 300px;
+        justify-content: center;
+        text-align: center;
+        margin-left:130%;
+        position: relative;
     }  
 }
