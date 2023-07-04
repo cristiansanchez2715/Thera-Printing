@@ -1,5 +1,8 @@
 # Thera-Printing
 
+--GO TO MASTER BRANCHES
+--VE A LA RAMA MASTER
+
 *to be continued you find instruccions in english with in spanish.
 
 *A continuacion encontrara instrucciones tanton en ingles como en español
